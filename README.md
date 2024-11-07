@@ -1,0 +1,3 @@
+El archivo "Grupo_4_Agrupación_de_datos_sobre_obesidad" presenta la solución a un modelo de agrupación mediante CLUSTERS para una base de datos de habitos alimenticios y condiciones fisicas de personas, el target presenta el tipo de obesidad que presenta la persona. 
+El dataset utilizado se encuentra incluido en el notebook y adicional se incluye en el pyproyect.toml
+Las demás librerias utilizadas al igual que la del dataset se encuentran en el archivo pyproyect.toml
